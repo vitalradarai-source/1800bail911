@@ -2,4 +2,3 @@ User-agent: *
 Allow: /
 
 Sitemap: https://1800bail911.com/sitemap.xml
-Sitemap: https://www.angelsbailbonds.com/sitemaps.xml
