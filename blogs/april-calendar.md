@@ -20,7 +20,7 @@
 
 | Date | Day | Slug | Keyword | Category | Status |
 |---|---|---|---|---|---|
-| 2026-04-08 | Wed | what-happens-after-arrest-los-angeles | what happens after an arrest in Los Angeles | Bail Process | ⬜ |
+| 2026-04-08 | Wed | what-happens-after-arrest-los-angeles | what happens after an arrest in Los Angeles | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-los-angeles | how do bail bonds work in Los Angeles | Bail Bonds 101 | ⬜ |
 | 2026-04-10 | Fri | how-much-is-bail-los-angeles | how much is bail in Los Angeles County | Bail Amounts | ⬜ |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-los-angeles | how to get someone out of jail in Los Angeles | Release Process | ⬜ |
