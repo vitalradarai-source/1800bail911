@@ -22,11 +22,11 @@
 |---|---|---|---|---|---|
 | 2026-04-08 | Wed | what-happens-after-arrest-los-angeles | what happens after an arrest in Los Angeles | Bail Process | ✅ published |
 | 2026-04-09 | Thu | how-bail-bonds-work-los-angeles | how do bail bonds work in Los Angeles | Bail Bonds 101 | ✅ published |
-| 2026-04-10 | Fri | how-much-is-bail-los-angeles | how much is bail in Los Angeles County | Bail Amounts | ⬜ |
+| 2026-04-10 | Fri | how-much-is-bail-los-angeles | how much is bail in Los Angeles County | Bail Amounts | ✅ published |
 | 2026-04-11 | Sat | how-to-get-someone-out-of-jail-los-angeles | how to get someone out of jail in Los Angeles | Release Process | ⬜ |
 | 2026-04-12 | Sun | domestic-violence-bail-los-angeles | domestic violence bail bonds Los Angeles | DV Bail | ⬜ |
 | 2026-04-13 | Mon | dui-bail-bonds-los-angeles | DUI bail bonds Los Angeles | DUI | ⬜ |
-| 2026-04-14 | Tue | felony-bail-bonds-los-angeles | felony bail bonds Los Angeles | Felony | ⬜ |
+| 2026-04-14 | Tue | 2026-04-14-1800-bail-911-emergency-bondsman | 1 800 bail 911 | Hub Post | ✅ published |
 | 2026-04-15 | Wed | drug-possession-bail-los-angeles | drug possession bail Los Angeles | Drug Charges | ⬜ |
 | 2026-04-16 | Thu | bail-someone-out-at-night-los-angeles | can you bail someone out at night in Los Angeles | 24/7 Bail | ⬜ |
 | 2026-04-17 | Fri | how-long-bail-takes-los-angeles | how long does it take to bail someone out of LAPD Central Jail | Timeline | ⬜ |
