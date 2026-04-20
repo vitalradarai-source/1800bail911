@@ -33,16 +33,16 @@
 | 2026-04-18 | Sat | bail-bond-cost-los-angeles | how much does a bail bondsman charge in Los Angeles | Costs | ⬜ |
 | 2026-04-19 | Sun | bail-bond-payment-plan-los-angeles | bail bond payment plan Los Angeles | Payment Plans | ⬜ |
 | 2026-04-20 | Mon | jail-booking-process-los-angeles | jail booking process at LAPD Central Jail | Jail Process | ⬜ |
-| 2026-04-21 | Tue | inmate-search-los-angeles | how to find someone in jail Los Angeles | Inmate Search | ⬜ |
-| 2026-04-22 | Wed | what-to-expect-arraignment-los-angeles | what to expect at arraignment Clara Shortridge Foltz Criminal Justice Center | Court Process | ⬜ |
-| 2026-04-23 | Thu | bail-hearing-los-angeles | bail hearing process in Los Angeles County | Bail Hearing | ⬜ |
-| 2026-04-24 | Fri | warrant-bail-bonds-los-angeles | warrant bail bonds Los Angeles | Warrants | ⬜ |
-| 2026-04-25 | Sat | what-happens-miss-court-los-angeles | what happens if you miss court date Los Angeles | FTA | ⬜ |
-| 2026-04-26 | Sun | assault-bail-bonds-los-angeles | assault and battery bail bonds Los Angeles | Assault | ⬜ |
-| 2026-04-27 | Mon | theft-bail-bonds-los-angeles | theft and burglary bail bonds Los Angeles | Theft | ⬜ |
-| 2026-04-28 | Tue | choosing-bail-bondsman-los-angeles | how to choose a bail bondsman in Los Angeles | How to Choose | ⬜ |
-| 2026-04-29 | Wed | bail-bond-cosigner-los-angeles | what does a bail bond cosigner do Los Angeles | Cosigner | ⬜ |
-| 2026-04-30 | Thu | bail-bond-conditions-los-angeles | bail conditions and restrictions Los Angeles County | Conditions | ⬜ |
+| 2026-04-21 | Tue | bail-bond-cost-los-angeles | how much does a bail bondsman charge in Los Angeles | Costs | ⬜ |
+| 2026-04-22 | Wed | bail-bond-payment-plan-los-angeles | bail bond payment plan Los Angeles | Payment Plans | ⬜ |
+| 2026-04-23 | Thu | jail-booking-process-los-angeles | jail booking process in Los Angeles | Jail Process | ⬜ |
+| 2026-04-24 | Fri | inmate-search-los-angeles | how to find someone in jail Los Angeles | Inmate Search | ⬜ |
+| 2026-04-25 | Sat | what-to-expect-arraignment-los-angeles | what to expect at arraignment in Los Angeles | Court Process | ⬜ |
+| 2026-04-26 | Sun | bail-hearing-los-angeles | bail hearing process in Los Angeles | Bail Hearing | ⬜ |
+| 2026-04-27 | Mon | warrant-bail-bonds-los-angeles | warrant bail bonds Los Angeles | Warrants | ⬜ |
+| 2026-04-28 | Tue | what-happens-miss-court-los-angeles | what happens if you miss court date Los Angeles | FTA | ⬜ |
+| 2026-04-29 | Wed | assault-bail-bonds-los-angeles | assault and battery bail bonds Los Angeles | Assault | ⬜ |
+| 2026-04-30 | Thu | theft-bail-bonds-los-angeles | theft and burglary bail bonds Los Angeles | Theft | ⬜ |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
