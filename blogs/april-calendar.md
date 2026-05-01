@@ -42,7 +42,7 @@
 | 2026-04-27 | Mon | warrant-bail-bonds-los-angeles | warrant bail bonds Los Angeles | Warrants | ⬜ |
 | 2026-04-28 | Tue | what-happens-miss-court-los-angeles | what happens if you miss court date Los Angeles | FTA | ⬜ |
 | 2026-04-29 | Wed | assault-bail-bonds-los-angeles | assault and battery bail bonds Los Angeles | Assault | ⬜ |
-| 2026-04-30 | Thu | theft-bail-bonds-los-angeles | theft and burglary bail bonds Los Angeles | Theft | ⬜ |
+| 2026-04-30 | Thu | theft-bail-bonds-los-angeles | theft and burglary bail bonds Los Angeles | Theft | ✅ published |
 
 ## E-E-A-T Requirements (Every Post)
 - Licensed bondsman perspective (Sean Plotkin, License #1K06080)
